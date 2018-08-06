@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Haiku
 
-Directories=scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status,scalable/stock/generic,scalable/animations
+Directories=scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status,scalable/animations
 Inherits=Papirus,gnome,hicolor
 
 [scalable/actions]
