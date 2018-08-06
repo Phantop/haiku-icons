@@ -2,81 +2,67 @@
 Name=Haiku
 
 Directories=scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status,scalable/stock/generic,scalable/animations
-Inherits=gnome,hicolor
+Inherits=Papirus,gnome,hicolor
 
 [scalable/actions]
-Size=48
-MinSize=32
-MaxSize=256
 Context=Actions
+Size=16
+MinSize=8
+MaxSize=512
 Type=Scalable
 
 [scalable/apps]
-Size=48
-MinSize=32
-MaxSize=256
-Context=Apps
+Context=Applications
+Size=16
+MinSize=8
+MaxSize=512
 Type=Scalable
 
 [scalable/categories]
-Size=48
-MinSize=32
-MaxSize=256
 Context=Categories
+Size=16
+MinSize=8
+MaxSize=512
 Type=Scalable
 
 [scalable/devices]
-Size=48
-MinSize=32
-MaxSize=256
 Context=Devices
+Size=16
+MinSize=8
+MaxSize=512
 Type=Scalable
 
 [scalable/emblems]
-Size=48
-MinSize=32
-MaxSize=256
 Context=Emblems
+Size=16
+MinSize=8
+MaxSize=512
 Type=Scalable
 
 [scalable/emotes]
-Size=48
-MinSize=32
-MaxSize=256
 Context=Emotes
+Size=16
+MinSize=8
+MaxSize=512
 Type=Scalable
 
 [scalable/mimetypes]
-Size=48
-MinSize=32
-MaxSize=256
 Context=MimeTypes
+Size=16
+MinSize=8
+MaxSize=512
 Type=Scalable
 
 [scalable/places]
-Size=48
-MinSize=32
-MaxSize=256
 Context=Places
+Size=16
+MinSize=8
+MaxSize=512
 Type=Scalable
 
 [scalable/status]
-Size=48
-MinSize=32
-MaxSize=256
 Context=Status
-Type=Scalable
-
-[scalable/stock/generic]
-Size=48
-MinSize=32
-MaxSize=256
-Context=Stock
-Type=Scalable
-
-[scalable/animations]
-Size=36
-MinSize=24
-MaxSize=256
-Context=Actions
+Size=16
+MinSize=8
+MaxSize=512
 Type=Scalable
