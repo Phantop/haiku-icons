@@ -2,7 +2,7 @@
 Name=Haiku
 
 Directories=scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status,scalable/animations
-Inherits=Papirus,breeze,gnome,hicolor
+Inherits=Papirus,Adwaita,hicolor
 
 [scalable/actions]
 Context=Actions
