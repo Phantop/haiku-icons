@@ -73,3 +73,9 @@ Size=16
 MinSize=8
 MaxSize=512
 Type=Scalable
+
+[X-GNOME-Metatheme]
+Name=MinDark
+Encoding=UTF-8
+GtkTheme=MinDark
+CursorSize=24

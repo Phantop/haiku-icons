@@ -1,0 +1,6 @@
+@import url("resource:///org/gtk/libgtk/theme/Adwaita/gtk-dark.css");
+@define-color theme_selected_bg_color #bd93f9;
+headerbar, headerbar *, headerbar * * { min-height: 0; margin: 0; padding: 0; }
+window.ssd * { border-radius: 0; }
+window.ssd * {margin: -99} window, headerbar {border-radius: 0}
+window.ssd headerbar.titlebar { font-size: 0; border: none; min-height: 0; padding: 0; }
